@@ -2,7 +2,7 @@
 
 Ejemplo de conexión de un cliente MongoDb en Ubuntu 18.04
 
-## Instalaciones
+## Instalación
 
 ```bash
 sudo apt-get install mongodb -y
