@@ -12,6 +12,12 @@ sudo apt-get install mongodb -y
 sudo pip install pymongo
 ```
 
+## Ejecución
+
+```bash
+sudo python src/index.py
+```
+
 ## Referencias
 
 [Documentación PyMongo](https://pymongo.readthedocs.io/en/stable)
