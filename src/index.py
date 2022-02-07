@@ -32,7 +32,7 @@ try:
 
     collection.insert_one(doc)
 
-    print( collection.find_one() )
+    print( collection.find({}) )
 
     # Insertando múltiples documentos
 
